@@ -1,4 +1,0 @@
-ToolSet: w64 11.0 (local)@C:\Users\9698113\Downloads\CLion-2023.2.2.win\bin\mingw
-Options: 
-
-Options:-DCMAKE_MAKE_PROGRAM=C:/Users/9698113/Downloads/CLion-2023.2.2.win/bin/ninja/win/x64/ninja.exe
